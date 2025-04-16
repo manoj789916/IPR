@@ -1,2 +1,2 @@
 # IPR
-all about intellectual property rights
+All about intellectual property rights
